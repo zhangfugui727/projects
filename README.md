@@ -7,3 +7,8 @@ https://github.com/givanz/VvvebJs
 
 数据大屏可视化编辑器
 https://github.com/ddiu8081/ChartFun
+
+gitee资料，可做参考
+https://gitee.com/explore/bi
+https://gitee.com/zengchao/JRelax-BI
+https://gitee.com/tuiqiao/CBoard
