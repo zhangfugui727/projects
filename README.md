@@ -77,6 +77,15 @@ https://github.com/ddiu8081/ChartFun
 ### 自定义滚动
 - https://github.com/Grsmto/simplebar
 
+### html5模板（一些默认样式：样式重置、打印）
+- https://github.com/h5bp/html5-boilerplate
+
+### 动画
+- https://github.com/daneden/animate.css
+
+### 样式重置
+- https://github.com/necolas/normalize.css
+
 ## 学习项目
 ### 一个springboot商城
 - https://github.com/2227324689/gpmall
