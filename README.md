@@ -52,6 +52,7 @@ https://github.com/ddiu8081/ChartFun
 ## 自动化
 ### 部署
 - https://github.com/jenkinsci/jenkins
+- https://github.com/ansible/ansible
 
 ## 监控&告警
 ### 
