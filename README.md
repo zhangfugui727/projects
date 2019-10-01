@@ -32,6 +32,12 @@ https://github.com/ddiu8081/ChartFun
 > 设计特点： 一个分布式易扩展的可视化DAG工作流任务调度系统。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。
 - airflow
 
+## 快速css开发
+- https://github.com/tailwindcss/tailwindcss
+
+## 动态管理模板修改
+- https://github.com/yezihaohao/react-admin
+
 ## 文本识别ocr
 ### Tesseract开源OCR引擎（主存储库）
 - https://github.com/tesseract-ocr/tesseract
