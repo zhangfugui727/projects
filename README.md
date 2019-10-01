@@ -41,6 +41,10 @@ https://github.com/ddiu8081/ChartFun
 ## 文本识别ocr
 ### Tesseract开源OCR引擎（主存储库）
 - https://github.com/tesseract-ocr/tesseract
+### 中文ocr
+- https://github.com/chineseocr/chineseocr
+### pdf ocr
+- https://github.com/jbarlow83/OCRmyPDF
 
 ### 无纸化流程参考
 - https://github.com/the-paperless-project/paperless
