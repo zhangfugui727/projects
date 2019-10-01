@@ -6,6 +6,9 @@
 ### 拖放网站构建器javascript库。（配合动态数据及sql）
 https://github.com/givanz/VvvebJs
 
+### 可拖动的动态布局
+- https://github.com/haltu/muuri
+
 ### 数据大屏可视化编辑器
 https://github.com/ddiu8081/ChartFun
 
@@ -29,6 +32,17 @@ https://github.com/ddiu8081/ChartFun
 > 设计特点： 一个分布式易扩展的可视化DAG工作流任务调度系统。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。
 - airflow
 
+## 文本识别ocr
+### Tesseract开源OCR引擎（主存储库）
+- https://github.com/tesseract-ocr/tesseract
+
+### 无纸化流程参考
+- https://github.com/the-paperless-project/paperless
+
+## 自动化
+### 部署
+- https://github.com/jenkinsci/jenkins
+
 ## 监控&告警
 ### 
 - https://github.com/dianping/cat
@@ -40,3 +54,18 @@ https://github.com/ddiu8081/ChartFun
 ## 工具
 ### postman请求模拟
 - https://github.com/liyasthomas/postwoman
+
+
+## 可参考的代码实现
+### css（粘性页脚、垂直居中）
+- https://github.com/philipwalton/solved-by-flexbox
+
+### 一个时钟样式参考
+- https://a-jie.github.io/clock-shop/
+
+### 自定义滚动
+- https://github.com/Grsmto/simplebar
+
+## 学习项目
+### 一个springboot商城
+- https://github.com/2227324689/gpmall
