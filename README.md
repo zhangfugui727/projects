@@ -32,6 +32,10 @@ https://github.com/ddiu8081/ChartFun
 > 设计特点： 一个分布式易扩展的可视化DAG工作流任务调度系统。致力于解决数据处理流程中错综复杂的依赖关系，使调度系统在数据处理流程中开箱即用。
 - airflow
 
+## 计划任务
+### xxl-job
+- https://github.com/xuxueli/xxl-job
+
 ## 快速css开发
 - https://github.com/tailwindcss/tailwindcss
 
@@ -58,6 +62,12 @@ https://github.com/ddiu8081/ChartFun
 ### 
 - https://github.com/dianping/cat
 
+## 适用于iOS，Android和Windows Apps的自动化
+- https://github.com/appium/appium
+
+## 用于使用tensorflow.js在浏览器和Node.js中进行人脸检测和人脸识别的JavaScript API
+- https://github.com/justadudewhohacks/face-api.js
+
 ## 样式
 ### 清理样式
 - https://github.com/necolas/normalize.css
@@ -66,6 +76,15 @@ https://github.com/ddiu8081/ChartFun
 ### postman请求模拟
 - https://github.com/liyasthomas/postwoman
 
+### 同步文件
+- https://github.com/syncthing/syncthing
+
+### 提升动漫视频质量
+- https://github.com/bloc97/Anime4K
+
+### js校验
+- https://github.com/yiminghe/async-validator
+- https://github.com/validatorjs/validator.js
 
 ## 可参考的代码实现
 ### css（粘性页脚、垂直居中）
@@ -77,6 +96,9 @@ https://github.com/ddiu8081/ChartFun
 ### 自定义滚动
 - https://github.com/Grsmto/simplebar
 
+### 可动！可拖动！可调整大小！可扩展！可旋转！可变形！捏！可分组！
+- https://github.com/daybrush/moveable
+
 ### html5模板（一些默认样式：样式重置、打印）
 - https://github.com/h5bp/html5-boilerplate
 
@@ -85,6 +107,9 @@ https://github.com/ddiu8081/ChartFun
 
 ### 样式重置
 - https://github.com/necolas/normalize.css
+
+### 滚动
+- https://github.com/ustbhuangyi/better-scroll
 
 ## 学习项目
 ### 一个springboot商城
