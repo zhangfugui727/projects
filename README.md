@@ -73,6 +73,9 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/necolas/normalize.css
 
 ## 工具
+### 视频录制
+- https://github.com/obsproject/obs-studio
+
 ### postman请求模拟
 - https://github.com/liyasthomas/postwoman
 
