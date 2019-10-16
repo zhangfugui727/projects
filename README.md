@@ -73,6 +73,9 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/necolas/normalize.css
 
 ## 工具
+### 浏览器翻译插件
+- https://github.com/crimx/ext-saladict
+
 ### 视频录制
 - https://github.com/obsproject/obs-studio
 
@@ -101,6 +104,10 @@ https://github.com/ddiu8081/ChartFun
 
 ### 可动！可拖动！可调整大小！可扩展！可旋转！可变形！捏！可分组！
 - https://github.com/daybrush/moveable
+### 画布、拖动
+- https://github.com/givanz/VvvebJs
+- https://github.com/ly525/luban-h5
+- https://github.com/ymm-tech/gods-pen
 
 ### html5模板（一些默认样式：样式重置、打印）
 - https://github.com/h5bp/html5-boilerplate
@@ -117,3 +124,4 @@ https://github.com/ddiu8081/ChartFun
 ## 学习项目
 ### 一个springboot商城
 - https://github.com/2227324689/gpmall
+- https://github.com/Snailclimb/springboot-guide
