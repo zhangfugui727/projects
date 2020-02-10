@@ -102,6 +102,9 @@ https://github.com/ddiu8081/ChartFun
 ### 自定义滚动
 - https://github.com/Grsmto/simplebar
 
+### 轮播 
+- https://github.com/nolimits4web/swiper
+
 ### 可动！可拖动！可调整大小！可扩展！可旋转！可变形！捏！可分组！
 - https://github.com/daybrush/moveable
 ### 画布、拖动
