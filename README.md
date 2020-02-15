@@ -124,6 +124,10 @@ https://github.com/ddiu8081/ChartFun
 ### 滚动
 - https://github.com/ustbhuangyi/better-scroll
 
+### 拖动缩放
+- https://github.com/daybrush/moveable
+- https://github.com/mauricius/vue-draggable-resizable
+
 ## 学习项目
 ### 一个springboot商城
 - https://github.com/2227324689/gpmall
