@@ -127,6 +127,7 @@ https://github.com/ddiu8081/ChartFun
 ### 拖动缩放
 - https://github.com/daybrush/moveable
 - https://github.com/mauricius/vue-draggable-resizable
+- https://github.com/timmywil/panzoom
 
 ## 学习项目
 ### 一个springboot商城
