@@ -73,6 +73,10 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/necolas/normalize.css
 
 ## 工具
+
+### 在线web工具集合
+- https://github.com/stefanjudis/tiny-helpers
+
 ### 浏览器翻译插件
 - https://github.com/crimx/ext-saladict
 
