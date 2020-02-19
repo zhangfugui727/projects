@@ -92,6 +92,9 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/yiminghe/async-validator
 - https://github.com/validatorjs/validator.js
 
+### 会议系统
+- https://github.com/jitsi/jitsi-meet
+
 ## 可参考的代码实现
 ### css（粘性页脚、垂直居中）
 - https://github.com/philipwalton/solved-by-flexbox
@@ -129,7 +132,22 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/mauricius/vue-draggable-resizable
 - https://github.com/timmywil/panzoom
 
+## 测试
+- https://github.com/intuit/karate
+- https://github.com/cypress-io/cypress
+
+## 浏览器自动化
+
+- https://github.com/SeleniumHQ/selenium
+
 ## 学习项目
 ### 一个springboot商城
 - https://github.com/2227324689/gpmall
 - https://github.com/Snailclimb/springboot-guide
+
+### 一个仪表盘
+- https://github.com/0wczar/airframe-react
+
+### 大型系统设计
+- https://github.com/binhnguyennus/awesome-scalability
+- https://github.com/donnemartin/system-design-primer
