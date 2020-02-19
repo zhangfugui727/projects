@@ -144,6 +144,9 @@ https://github.com/ddiu8081/ChartFun
 
 - https://github.com/SeleniumHQ/selenium
 
+## 响应式邮件模板
+- https://github.com/leemunroe/responsive-html-email-template
+
 ## 学习项目
 ### 一个springboot商城
 - https://github.com/2227324689/gpmall
