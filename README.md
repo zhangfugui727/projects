@@ -47,6 +47,7 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/tesseract-ocr/tesseract
 ### 中文ocr
 - https://github.com/chineseocr/chineseocr
+- https://github.com/ouyanghuiyu/chineseocr_lite
 ### pdf ocr
 - https://github.com/jbarlow83/OCRmyPDF
 
@@ -104,6 +105,10 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/jitsi/jitsi-meet
 
 ## 可参考的代码实现
+
+### 富文本
+- https://github.com/surmon-china/vue-quill-editor
+
 ### css（粘性页脚、垂直居中）
 - https://github.com/philipwalton/solved-by-flexbox
 
@@ -112,6 +117,10 @@ https://github.com/ddiu8081/ChartFun
 
 ### 自定义滚动
 - https://github.com/Grsmto/simplebar
+
+### 图片上传
+- https://github.com/elninotech/uppload
+- https://github.com/Molunerfinn/PicGo
 
 ### 轮播 
 - https://github.com/nolimits4web/swiper
@@ -162,3 +171,11 @@ https://github.com/ddiu8081/ChartFun
 ### 大型系统设计
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/donnemartin/system-design-primer
+
+### 学习正则表达式
+- https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md
+
+## 教程
+
+### 爬虫
+- https://github.com/wistbean/learn_python3_spider
