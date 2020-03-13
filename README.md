@@ -137,6 +137,7 @@ https://github.com/ddiu8081/ChartFun
 
 ### 动画
 - https://github.com/daneden/animate.css
+- https://github.com/asika32764/vue2-animate
 
 ### 样式重置
 - https://github.com/necolas/normalize.css
