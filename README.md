@@ -103,6 +103,7 @@ https://github.com/ddiu8081/ChartFun
 
 ### 会议系统
 - https://github.com/jitsi/jitsi-meet
+- https://github.com/bigbluebutton/bigbluebutton
 
 ## 可参考的代码实现
 
@@ -162,6 +163,9 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/leemunroe/responsive-html-email-template
 
 ## 学习项目
+### 开发平台
+- DataSphere Studio（简称DSS）是微众银行自研的一站式数据应用开发管理门户。https://github.com/WeBankFinTech/DataSphereStudio/blob/master/README-ZH.md
+
 ### 一个springboot商城
 - https://github.com/2227324689/gpmall
 - https://github.com/Snailclimb/springboot-guide
@@ -176,7 +180,37 @@ https://github.com/ddiu8081/ChartFun
 ### 学习正则表达式
 - https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md
 
+### 学习git
+- https://github.com/pcottle/learnGitBranching
+
 ## 教程
 
 ### 爬虫
 - https://github.com/wistbean/learn_python3_spider
+
+## 监控
+### APM，应用程序性能监视系统
+- https://github.com/apache/skywalking
+
+## 工具
+
+### Arthas 是Alibaba开源的Java诊断工具，深受开发者喜爱。
+- https://github.com/alibaba/arthas/blob/master/README_CN.md
+
+### 响应式开发
+- https://github.com/manojVivek/responsively-app
+
+### vue-pdf
+- https://github.com/FranckFreiburger/vue-pdf
+
+### 格式化字符
+- https://github.com/nosir/cleave.js
+
+### redis
+- https://github.com/qishibo/AnotherRedisDesktopManager
+
+### 应用平台
+- https://github.com/WeBankFinTech/DataSphereStudio/blob/master/README-ZH.md
+
+## chrome插件排行
+- https://github.com/zhaoolee/ChromeAppHeroes
