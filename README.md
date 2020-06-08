@@ -104,6 +104,7 @@ https://github.com/ddiu8081/ChartFun
 ### 会议系统
 - https://github.com/jitsi/jitsi-meet
 - https://github.com/bigbluebutton/bigbluebutton
+- https://github.com/alievk/avatarify
 
 ## 可参考的代码实现
 
