@@ -214,6 +214,8 @@ https://github.com/ddiu8081/ChartFun
 
 ### 应用平台
 - https://github.com/WeBankFinTech/DataSphereStudio/blob/master/README-ZH.md
+- https://github.com/qq53182347/liugh-parent
+- jeecg
 
 ## chrome插件排行
 - https://github.com/zhaoolee/ChromeAppHeroes
