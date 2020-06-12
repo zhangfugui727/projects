@@ -48,6 +48,7 @@ https://github.com/ddiu8081/ChartFun
 ### 中文ocr
 - https://github.com/chineseocr/chineseocr
 - https://github.com/ouyanghuiyu/chineseocr_lite
+- https://github.com/PaddlePaddle/PaddleOCR
 ### pdf ocr
 - https://github.com/jbarlow83/OCRmyPDF
 
