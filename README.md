@@ -106,6 +106,7 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/jitsi/jitsi-meet
 - https://github.com/bigbluebutton/bigbluebutton
 - https://github.com/alievk/avatarify
+- https://github.com/ianramzy/decentralized-video-chat
 
 ## 可参考的代码实现
 
