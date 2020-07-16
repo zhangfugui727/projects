@@ -79,6 +79,7 @@ https://github.com/ddiu8081/ChartFun
 ### redis桌面管理工具
 
 - https://github.com/qishibo/AnotherRedisDesktopManager/
+- https://github.com/diego3g/rocketredis
 
 ### 在线web工具集合
 - https://github.com/stefanjudis/tiny-helpers
