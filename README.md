@@ -155,6 +155,9 @@ https://github.com/ddiu8081/ChartFun
 - https://github.com/mauricius/vue-draggable-resizable
 - https://github.com/timmywil/panzoom
 
+### 表单设计器
+- https://github.com/JakHuang/form-generator
+
 ## 测试
 - https://github.com/intuit/karate
 - https://github.com/cypress-io/cypress
