@@ -76,6 +76,9 @@ https://github.com/ddiu8081/ChartFun
 
 ## 工具
 
+### 爬取个人资料工具箱
+- https://github.com/kangvcar/InfoSpider
+
 ### redis桌面管理工具
 
 - https://github.com/qishibo/AnotherRedisDesktopManager/
